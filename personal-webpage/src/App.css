@@ -1,5 +1,6 @@
 div#edu, div#exp, div#home, div#cont {
   background-image: url("https://www.tokkoro.com/picsup/2979814-minimalism-code-html___mixed-wallpapers.jpg");
+  /* background-image: ; */
   background-position: center;
   background-repeat: no-repeat;
 }

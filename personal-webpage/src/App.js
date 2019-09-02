@@ -7,6 +7,7 @@ import Home from './components/home'
 import Education from './components/education';
 import Experience from './components/experience';
 import Contact from './components/contact';
+// import Background from './code_background.jpg'
 
 function App() {
   return (
